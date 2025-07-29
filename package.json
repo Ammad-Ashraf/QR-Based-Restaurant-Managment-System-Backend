@@ -4,9 +4,7 @@
   "description": "It's a QR Code base Restaurant Management System . It has two module: 1- For sutomers 2- For managers",
   "main": "App.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js",
-    "dev": "nodemon index.js --exec 'node-dev --exec babel-node'"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
